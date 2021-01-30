@@ -1,0 +1,2 @@
+### Longest Livestream on YT
+This program is my atempt to make the longest livestream on YT. To use this just clone this on repl.it by click this -> [Click Me](https://repl.it/github/isuckatprogram/longest-livestream-on-yt) then press the ``RUN`` button and it should automatically do everything. if you have any problems, feel free to create a ``ISSUE`` or DM me on Discord. Once all of this is setup, you will need to add a pinger to the repl. Learn how here: [Click Me](https://repl.it/talk/ask/Either-use-a-DB-the-best-option-or-use/28821/101261) 
